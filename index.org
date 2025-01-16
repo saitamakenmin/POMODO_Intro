@@ -1,0 +1,18 @@
+#+title: POMODO紹介サイト
+
+
+* 企画書
+- aaaa
+
+* 紹介動画
+- aaa
+
+* POMODOへのリンク
+- https://dainty-kelpie-e452ad.netlify.app/
+
+* githubへのリンク
+** 今回作業したリポジトリ
+- https://github.com/chri22024/pomodo
+
+* 使用させていただいた効果音
+- https://otologic.jp/free/se/clock-page02.html
